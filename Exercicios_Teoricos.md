@@ -6,13 +6,13 @@
 3. Em uma escala maior, entre quais graus encontramos os semitons?
 4. O que significa “Tônica” em uma escala?
 5. Associe os graus às funções:  
-   (I) _________________________________________________________ 
-   (II) _________________________________________________________ 
-   (III) _________________________________________________________ 
-   (IV) _________________________________________________________ 
-   (V) _________________________________________________________ 
-   (VI) _________________________________________________________ 
-   (VII) _________________________________________________________
+   (I) _________________________________________________________  
+   (II) _________________________________________________________  
+   (III) _________________________________________________________  
+   (IV) _________________________________________________________  
+   (V) _________________________________________________________  
+   (VI) _________________________________________________________  
+   (VII) _________________________________________________________  
 6. Explique por que a escala maior recebe esse nome.
 7. O que diferencia a escala maior da escala menor natural?
 8. Quantos semitons existem em uma oitava?
@@ -66,3 +66,4 @@
 48. O que ocorre se invertermos a ordem dos intervalos da escala maior?
 49. Por que a escala maior é considerada a base da harmonia tonal?
 50. Cite um exemplo de música popular brasileira em tonalidade maior (intérprete e tom).
+
