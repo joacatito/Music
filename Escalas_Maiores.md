@@ -106,6 +106,7 @@ Afinamento padrão:
 > Formato: por corda, **lista de casas** que pertencem às notas da escala (sem acordes).
 
 ## C (C D E F G A B)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 2, 3, 5, 7, 9, 10, 12 |
@@ -114,6 +115,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 2, 3, 5, 7, 9, 10, 12 |
 
 ## G (G A B C D E F#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 2, 4, 5, 7, 9, 10, 12 |
@@ -122,6 +124,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 2, 4, 5, 7, 9, 10, 12 |
 
 ## D (D E F# G A B C#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 2, 4, 5, 7, 9, 11, 12 |
@@ -130,6 +133,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 2, 4, 5, 7, 9, 11, 12 |
 
 ## A (A B C# D E F# G#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 2, 4, 6, 7, 9, 11, 12 |
@@ -138,6 +142,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 2, 4, 6, 7, 9, 11, 12 |
 
 ## E (E F# G# A B C# D#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 2, 4, 6, 7, 9, 11 |
@@ -146,6 +151,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 2, 4, 6, 7, 9, 11 |
 
 ## F (F G A Bb C D E)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 2, 3, 5, 7, 8, 10, 12 |
@@ -154,6 +160,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 2, 3, 5, 7, 8, 10, 12 |
 
 ## Bb (Bb C D Eb F G A)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 0, 1, 3, 5, 7, 8, 10, 12 |
@@ -162,6 +169,7 @@ Afinamento padrão:
 | 1ª (D) | 0, 1, 3, 5, 7, 8, 10, 12 |
 
 ## Eb (Eb F G Ab Bb C D)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 3, 5, 6, 8, 10, 12 |
@@ -170,6 +178,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 3, 5, 6, 8, 10, 12 |
 
 ## Ab (Ab Bb C Db Eb F G)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 3, 5, 6, 8, 10, 11 |
@@ -186,6 +195,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 3, 5, 6, 8, 10, 11 |
 
 ## B (B C# D# E F# G# A#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 2, 4, 6, 8, 9, 11 |
@@ -194,6 +204,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 2, 4, 6, 8, 9, 11 |
 
 ## F# (F# G# A# B C# D# E#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 3, 4, 6, 8, 10, 11 |
@@ -202,6 +213,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 3, 4, 6, 8, 10, 11 |
 
 ## C# (C# D# E# F# G# A# B#)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 3, 4, 6, 8, 10, 12 |
@@ -210,6 +222,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 3, 4, 6, 8, 10, 12 |
 
 ## Gb (Gb Ab Bb Cb Db Eb F)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 3, 4, 6, 8, 10, 11 |
@@ -218,6 +231,7 @@ Afinamento padrão:
 | 1ª (D) | 1, 3, 4, 6, 8, 10, 11 |
 
 ## Cb (Cb Db Eb Fb Gb Ab Bb)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 2, 4, 6, 8, 9, 11 |
@@ -240,3 +254,4 @@ Essas tabelas permitem:
 - Aplicar a escala em **levadas, arpejos e improvisos**.
 
 O cavaquinho, por ter afinação reentrante (nota aguda na 1ª corda), cria **formas simétricas** que facilitam a memorização dos desenhos das escalas maiores.
+
