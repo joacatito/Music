@@ -187,6 +187,7 @@ Afinamento padrão:
 | 1ª (D) | 3, 5, 6, 8, 10, 11 |
 
 ## Db (Db Eb F Gb Ab Bb C)
+
 | Corda | Casas |
 |:--|:--|
 | 4ª (D) | 1, 3, 5, 6, 8, 10, 11 |
@@ -254,4 +255,5 @@ Essas tabelas permitem:
 - Aplicar a escala em **levadas, arpejos e improvisos**.
 
 O cavaquinho, por ter afinação reentrante (nota aguda na 1ª corda), cria **formas simétricas** que facilitam a memorização dos desenhos das escalas maiores.
+
 
