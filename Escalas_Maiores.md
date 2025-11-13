@@ -56,10 +56,10 @@ Exemplo em C maior:
 | C# | C# D# E# F# G# A# B# | C# – D#m – E#m – F# – G# – A#m – B#m(♭5) |
 | F# | F# G# A# B C# D# E# | F# – G#m – A#m – B – C# – D#m – E#m(♭5) |
 | Cb | Cb Db Eb Fb Gb Ab Bb | Cb – Dbm – Ebm – Fb – Gb – Abm – Bm(♭5) |
-| Ab | Ab Bb C Db Eb F G | Ab – Bbm – Cm – Db – Eb – Fm – Gm(♭5) |
 | Db | Db Eb F Gb Ab Bb C | Db – Ebm – Fm – Gb – Ab – Bbm – Cm(♭5) |
 | Eb | Eb F G Ab Bb C D | Eb – Fm – Gm – Ab – Bb – Cm – Dm(♭5) |
 | Gb | Gb Ab Bb Cb Db Eb F | Gb – Abm – Bbm – Cb – Db – Ebm – Fm(♭5) |
+| Ab | Ab Bb C Db Eb F G | Ab – Bbm – Cm – Db – Eb – Fm – Gm(♭5) |
 | Bb | Bb C D Eb F G A | Bb – Cm – Dm – Eb – F – Gm – Am(♭5) |
 
 ---
@@ -255,6 +255,7 @@ Essas tabelas permitem:
 - Aplicar a escala em **levadas, arpejos e improvisos**.
 
 O cavaquinho, por ter afinação reentrante (nota aguda na 1ª corda), cria **formas simétricas** que facilitam a memorização dos desenhos das escalas maiores.
+
 
 
 
